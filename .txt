@@ -1,18 +1,18 @@
 # Web + Devops
-- Brijendra
-- Suswhat
-- Soubhik
-- Maheswar
-- Punit 
-- Jasrotia
+- Brijendra  x
+- Suswhat    x
+- Soubhik    x
+- Maheswar   x
+- Punit      x
+- Jasrotia   x
 
 # Systems 
-- Sussie
-- SKG
-
+- Sussie     x
+- SKG        x
+ 
 # App
-- Binashak
-- Divya 
+- Binashak   x
+- Divya      x
 - Shreyansh
 - Jeevan 
 
