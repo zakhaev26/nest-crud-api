@@ -10,7 +10,7 @@ export class UserService {
     }
 
     getUser(id: number) {
-        return Array.from((this.store).map([_,user] => user))
+        // return Array.from((this.store).map([_,user] => user))
     }
 
     updateUser(id : number , user:UserDataType) { 
